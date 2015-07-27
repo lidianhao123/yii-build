@@ -1,0 +1,129 @@
+{
+    "jsSrc": "static/modules",
+    "jsDest": "js/modules",
+    "checkPath": "protected/views",
+    "js": {
+        "protected/views/activities/actDetail.php": [
+            "detail-load-comment.js",
+            "detail.js"
+        ],
+        "protected/views/activities/activitiesList.php": [
+            "dropdown.js",
+            "index.js",
+            "selectdrop.js"
+        ],
+        "protected/views/activities/branchAct.php": [
+            "organ.js"
+        ],
+        "protected/views/activities/PulishBranchAct.php": [
+            "formitem.js",
+            "notice.js"
+        ],
+        "protected/views/activities/PulishUnitAct.php": [
+            "formitem.js",
+            "notice.js"
+        ],
+        "protected/views/admin/InitUnitInfo.php": [
+            "area-data.js",
+            "common.js",
+            "dropdown.js",
+            "system-setup.js"
+        ],
+        "protected/views/layouts/main.php": [
+            "common.js"
+        ],
+        "protected/views/manageactivities/ManageBranchActDetail.php": [
+            "activity-manage.js"
+        ],
+        "protected/views/manageactivities/ManageUnitActDetail.php": [
+            "activity-manage.js"
+        ],
+        "protected/views/managefile/AddExam.php": [
+            "file-manager-exam-create.js"
+        ],
+        "protected/views/managefile/AllFeelings.php": [
+            "file-manager-idea.js",
+            "selectdrop.js"
+        ],
+        "protected/views/managefile/AllScores.php": [
+            "selectdrop.js",
+            "viewscore.js"
+        ],
+        "protected/views/managefile/ModifyExam.php": [
+            "file-manager-exam-create.js"
+        ],
+        "protected/views/managemember/ImportMembers.php": [
+            "dropdown.js",
+            "person-manage.js"
+        ],
+        "protected/views/managemember/ManageMembers.php": [
+            "dropdown.js",
+            "person-manage.js"
+        ],
+        "protected/views/managemember/RollInMembers.php": [
+            "dropdown.js",
+            "person-manage.js"
+        ],
+        "protected/views/managemember/RollOutMembers.php": [
+            "dropdown.js",
+            "person-manage.js"
+        ],
+        "protected/views/manageorg/MyLevelBranch.php": [
+            "area-data.js",
+            "branch-manage.js",
+            "dropdown.js"
+        ],
+        "protected/views/managesystem/AuthManage.php": [
+            "plat-auth.js"
+        ],
+        "protected/views/managesystem/OrgConnect.php": [
+            "plat-relation.js"
+        ],
+        "protected/views/managesystem/ShowManage.php": [
+            "common.js",
+            "dropdown.js",
+            "plat-phone.js"
+        ],
+        "protected/views/modelsetting/ModelSettingList.php": [
+            "mode-setting.js"
+        ],
+        "protected/views/site/login.php": [
+            "common.js",
+            "login.js"
+        ],
+        "protected/views/study/ExamDetail.php": [
+            "online-study-exam.js"
+        ],
+        "protected/views/user/AllSuggestList.php": [
+            "comment.js"
+        ],
+        "protected/views/user/BingMobile.php": [
+            "common.js"
+        ],
+        "protected/views/user/ModifyPassword.php": [
+            "common.js",
+            "sys-change-pwd.js"
+        ],
+        "protected/views/user/myBranchAct.php": [
+            "dropdown.js",
+            "organ.js"
+        ],
+        "protected/views/user/myPublishAct.php": [
+            "myPublish.js",
+            "selectdrop.js"
+        ],
+        "protected/views/user/myPublishActDetail.php": [
+            "detail.js",
+            "dropdown.js"
+        ],
+        "protected/views/user/myPublishNotice.php": [
+            "myPublish.js"
+        ],
+        "protected/views/user/SuggestList.php": [
+            "comment.js"
+        ],
+        "protected/views/user/SuggestPulish.php": [
+            "my-suggest-publish.js"
+        ]
+    }
+}
