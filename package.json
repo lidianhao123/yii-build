@@ -1,0 +1,9 @@
+{
+  "name": "yiiBuild",
+  "version": "0.1.0",
+  "devDependencies": {
+    "clean-css": "^3.3.6",
+    "iconv-lite": "^0.4.11",
+    "uglifyjs": "^2.4.10"
+  }
+}

@@ -310,3 +310,4 @@ run();
 // yii.util.recursiveFile(conf.checkPath, function(fn){
 //     console.info(fn + " line number is ", yii.util.countFileLines(fn));
 // });
+// console.info(yii.util.getFileNames("./static"));
